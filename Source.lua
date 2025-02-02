@@ -1,14 +1,4 @@
---[[
-
-ArrayField Interface Suite
-by Meta
-
-Original by Sirius
-
--------------------------------
-Arrays  | Designing + Programming + New Features
-
-]]
+-- ArrayField Interface Suite by Meta Original by Sirius Arrays  | Designing + Programming + New Feature
 
 
 
